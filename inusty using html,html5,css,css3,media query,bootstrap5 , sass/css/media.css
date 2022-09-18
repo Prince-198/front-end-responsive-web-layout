@@ -1,0 +1,116 @@
+@media (max-width: 1290px) {
+    .setting {
+        display: none !important;
+    }
+}
+
+@media (max-width: 991px) {
+    .carousel-item {
+        height: 80vh !important;
+    }
+
+    .info-img {
+        margin-bottom: 50px !important;
+    }
+
+    footer .col-lg-3 {
+        margin: 30px 0px !important;
+    }
+
+    .feedbak-slide {
+        display: block !important;
+    }
+
+    .project-tab {
+        padding-left: 0px !important;
+    }
+
+    .solutions .solution-box i {
+        margin-top: 30px !important;
+    }
+
+    .serve .box .serve-red {
+        top: 176px !important;
+        left: 212px !important;
+    }
+
+    .info .info-2 .info-text {
+        margin-left: 0px !important;
+    }
+
+    .banner h5 {
+        font-size: initial !important;
+        width: fit-content !important;
+    }
+}
+
+@media (max-width: 775px) {
+    .projects .pro-box .overlay {
+        width: 95% !important;
+    }
+}
+
+@media (max-width: 575px) {
+    .info-box-text {
+        transform: translate(27px, 23px) !important;
+    }
+
+    .feedback-slider {
+        margin: 10px !important;
+    }
+
+    .owl-item.cloned {
+        margin: 0 -7px;
+    }
+
+    .feedbak-slide .title {
+        margin: 0px 13px;
+    }
+
+    .benefits .benefits-box {
+        padding: 0px 15px !important;
+        padding-top: 80px !important;
+    }
+
+    .benefit-text {
+        padding-left: 0px !important;
+    }
+}
+
+@media (max-width: 400px) {
+    .info-box-text {
+        padding: 41px 0px !important;
+        width: 210px !important;
+    }
+
+    .project-tab {
+        display: block !important;
+        text-align: center !important;
+    }
+
+    .project-tab li a {
+        padding-right: 0px !important;
+    }
+
+    .box {
+        margin-left: 30px !important;
+    }
+}
+
+@media (max-width: 375px) {
+    .serve {
+        padding-bottom: 0px !important;
+    }
+}
+
+@media (max-width: 281px) {
+    .info-box-text {
+        padding: 21px 5px !important;
+        width: 154px !important;
+        transform: translate(27px, 5px) !important;
+    }
+
+    .serve {
+        margin-top: 0px !important;
+    }
+}
